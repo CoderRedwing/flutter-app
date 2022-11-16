@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {
+  const MyDrawer({super.key});
+
   @override
   Widget build(BuildContext context) {
     const imageUrl = "assets/images/ak.jpg";
@@ -51,7 +53,6 @@ class MyDrawer extends StatelessWidget {
                 textScaleFactor: 1.4,
                 style: TextStyle(
                   color: Colors.white,
-
                 ),
               ),
             ),
@@ -69,13 +70,9 @@ class MyDrawer extends StatelessWidget {
                 ),
               ),
             ),
-
           ],
-
         ),
-
       ),
-
     );
   }
 }
