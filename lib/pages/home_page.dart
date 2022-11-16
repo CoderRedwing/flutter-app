@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../widgets/drawer.dart';
+
 class HomePage extends StatelessWidget {
   final int days = 30;
   final String name = 'CodePen';
@@ -17,7 +19,7 @@ class HomePage extends StatelessWidget {
           child: Text("welcome to $days days of flutter crash course by $name"),
         ),
       ),
-      drawer: const Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
