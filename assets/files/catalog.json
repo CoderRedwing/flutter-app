@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+    "id": 1,
+    "name": "iphone 12 pro",
+    "desc": "Apple iphone 12th generation",
+    "price": 999,
+    "color": "#33505a",
+    "image":"https://cdn.shopify.com/s/files/1/1684/4603/products/iphone-12-pro_Graphite_530x@2x.png?v=1652856493"
+    
+    },
+    {
+        "id": 2,
+        "name": "pixel 5",
+        "desc": "Google pixel phone 5th generation",
+        "price": 599,
+        "color": "#00ac51",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrUiuAPeAIp-xn-p-KXjNCLIuqI3fJbKLyjFhXkdfI4DOeuxvMN5HE6cFZLiORtetqBFw&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "M1 mackbook air",
+            "desc": "Apple laptop 12th generation",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664472289661"
+            },
+
+            {
+                "id": 4,
+                "name": "laptop",
+                "desc": "Hp laptop",
+                "price": 899,
+                "color": "#33505a",
+                "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2F-%2Fhi%2FLenovo-%25E0%25A4%25B8%25E0%25A5%258D%25E0%25A4%25AE%25E0%25A4%25BE%25E0%25A4%25B0%25E0%25A5%258D%25E0%25A4%259F-%25E0%25A4%259F%25E0%25A5%2588%25E0%25A4%25AC%25E0%25A4%25B2%25E0%25A5%2587%25E0%25A4%259F-Google-%25E0%25A4%2595%25E0%25A5%2589%25E0%25A4%25B2%25E0%25A4%25BF%25E0%25A4%2582%25E0%25A4%2597%2Fdp%2FB088HBRHYG&psig=AOvVaw1EwQ9d8r45Ud8axog089Xv&ust=1669228815485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDN74i4wvsCFQAAAAAdAAAAABAM"
+            }
+  ]  
+}

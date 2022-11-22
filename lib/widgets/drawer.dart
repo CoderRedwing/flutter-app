@@ -9,12 +9,13 @@ class MyDrawer extends StatelessWidget {
     const imageUrl = "assets/images/ak.jpg";
     return Drawer(
       child: Container(
-        color: Colors.deepPurple,
+        color: Colors.blue,
         child: ListView(
-          children: const [
+          padding: EdgeInsets.zero,
+          children:  [
             DrawerHeader(
               padding: EdgeInsets.zero,
-              child: UserAccountsDrawerHeader(
+           child: UserAccountsDrawerHeader(
                 margin: EdgeInsets.zero,
                 accountName: Text("Ajitesh Mishra"),
                 accountEmail: Text("ajiteshru@gmail.com"),
